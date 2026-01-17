@@ -1,4 +1,5 @@
 ## Hi there 👋
+Android (Kotlin / Java) | интересуюсь CTF, олимпиданым программированием 
 
 <!--
 **Rwon1/Rwon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
