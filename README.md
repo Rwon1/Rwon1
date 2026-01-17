@@ -1,17 +1,43 @@
 ## Hi there 👋
-Android (Kotlin / Java) | интересуюсь CTF, олимпиданым программированием 
+## Rwon1
 
-<!--
-**Rwon1/Rwon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning **Android mobile development** and building my foundations in **security**.
+Currently looking for **internships / trainee programs with mentorship or training**.
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Android development (primary focus)
+* CTF: forensics, reverse engineering, pwn, OSINT
+* Competitive programming and mathematics
+
+### Currently
+
+* Studying consistently and improving fundamentals
+* Practicing with CTF tasks and programming problems
+
+### Contact
+
+Telegram: @Rwon1
+
+---
+
+## Rwon1 (RU)
+
+Я изучаю **Android-разработку** и параллельно укрепляю базу в **информационной безопасности**.
+Сейчас ищу **стажировку / trainee-программу** с обучением и наставничеством.
+
+### Интересы
+
+* Android-разработка (основной фокус)
+* CTF: форензика, реверс, pwn, OSINT
+* Олимпиадное программирование и математика
+
+### Сейчас
+
+* Регулярно учусь и закрываю пробелы в базе
+* Практикуюсь на CTF-задачах и алгоритмических задачах
+
+### Контакты
+
+Telegram: @Rwon1
+
