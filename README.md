@@ -17,7 +17,7 @@ Currently looking for **internships / trainee programs with mentorship or traini
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rwon1?theme=light,dark)](https://leetcode.com/u/Rwon1/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JThMslf?theme=light,dark)](https://leetcode.com/u/JThMslf/)
 
 ### Contact
 
