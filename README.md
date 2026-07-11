@@ -1,25 +1,36 @@
-## Hi there 👋
-## Rwon1
+<div align="center">
 
-I’m learning **Android mobile development** and building my foundations in **security**.
-Currently looking for **internships / trainee programs with mentorship or training**.
+# Hi, I'm Rwon1 👋
 
-### Interests
+**Android developer in training · Security enthusiast · Competitive programming learner**
 
-* Android development (primary focus)
-* CTF: forensics, reverse engineering, pwn, OSINT
-* Competitive programming and mathematics
+![Android](https://img.shields.io/badge/Android-Learning-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Exploring-6E40C9?style=for-the-badge&logo=hackthebox&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practicing-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JThMslf/)
 
-### Currently
+</div>
 
-* Studying consistently and improving fundamentals
-* Practicing with CTF tasks and programming problems
+---
 
-### LeetCode
+### 👨‍💻 About me
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JThMslf?theme=light,dark)](https://leetcode.com/u/JThMslf/)
+I’m learning **Android mobile development** and building strong foundations in **cybersecurity** and **computer science**.
 
-### Contact
+- 📱 Android development is my primary focus
+- 🛡️ Exploring CTF challenges: forensics, reverse engineering, pwn and OSINT
+- 🧠 Practicing competitive programming and mathematics
+- 🎯 Looking for internships or trainee programs with mentorship
 
-Telegram: @Rwon1
+### 🧩 LeetCode
 
+<div align="center">
+  <a href="https://leetcode.com/u/JThMslf/">
+    <img src="https://leetcard.jacoblin.cool/JThMslf?theme=light,dark&font=JetBrains_Mono&border=0&radius=12" width="500" alt="JThMslf LeetCode statistics">
+  </a>
+  <br>
+  <sub>Click the card to open my LeetCode profile</sub>
+</div>
+
+### 📬 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Rwon1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rwon1)
